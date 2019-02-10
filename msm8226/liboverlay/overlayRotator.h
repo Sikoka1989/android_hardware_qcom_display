@@ -32,7 +32,7 @@
 
 #include <stdlib.h>
 
-#include "mdpWrapper.h"
+#include mdpWrapper.h
 #include "overlayUtils.h"
 #include "overlayMem.h"
 #include "sync/sync.h"
