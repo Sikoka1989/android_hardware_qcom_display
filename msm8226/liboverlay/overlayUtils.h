@@ -35,7 +35,7 @@
 #include <fcntl.h> // open, O_RDWR, etc
 #include <hardware/hardware.h>
 #include <hardware/gralloc.h> // buffer_handle_t
-#include "linux/msm_mdp.h"
+#include linux/msm_mdp.h
 #include <linux/msm_rotator.h>
 #include <stdio.h>
 #include <stdlib.h>
